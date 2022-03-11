@@ -1,3 +1,5 @@
 # Coding-Problems
 
-Here I will post contest/interview style coding problems that I have completed.
+contains:
+- contest/interview style coding problems that I have completed
+- lessons/educational material that I used
